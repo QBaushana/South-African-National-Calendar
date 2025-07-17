@@ -1,6 +1,6 @@
 # South African National Calendar
 
-![Calendar Preview](./images/[https://via.placeholder.com/800x500/001F5B/FFFFFF?text=South+African+Calendar+Preview](https://github.com/QBaushana/South-African-National-Calendar/blob/main/South%20African%20National%20Calendar/image/Screenshot%202025-07-17%20110158.png))
+![Calendar Preview](./South-African-National-Calendar/images/[https://via.placeholder.com/800x500/001F5B/FFFFFF?text=South+African+Calendar+Preview](https://github.com/QBaushana/South-African-National-Calendar/blob/main/South%20African%20National%20Calendar/image/Screenshot%202025-07-17%20110158.png))
 
 A responsive and interactive calendar that displays South African national holidays from 2025 onwards. This project highlights public holidays, weekends, and the current day with a clean, modern design using South Africa's national colors.
 
